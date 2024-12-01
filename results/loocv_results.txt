@@ -1,0 +1,4 @@
+
+LOOCV Accuracy of custom k-NN classifier: 42.86%
+LOOCV Confusion Matrix:
+True Positives: 5, False Positives: 4, True Negatives: 1, False Negatives: 4

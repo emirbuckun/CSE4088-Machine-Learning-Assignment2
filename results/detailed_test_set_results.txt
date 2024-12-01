@@ -1,0 +1,12 @@
+
+Test Instance 1:
+Predicted: Yes, Actual: Yes
+Neighbors: ['No', 'Yes', 'Yes', 'Yes', 'No']
+
+Test Instance 2:
+Predicted: Yes, Actual: Yes
+Neighbors: ['Yes', 'No', 'Yes', 'Yes', 'Yes']
+
+Test Instance 3:
+Predicted: No, Actual: No
+Neighbors: ['Yes', 'No', 'No', 'No', 'Yes']

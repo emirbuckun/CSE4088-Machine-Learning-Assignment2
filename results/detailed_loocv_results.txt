@@ -1,0 +1,42 @@
+
+LOOCV Test Instance 1:
+Predicted: Yes, Actual: No
+
+LOOCV Test Instance 2:
+Predicted: Yes, Actual: No
+
+LOOCV Test Instance 3:
+Predicted: No, Actual: Yes
+
+LOOCV Test Instance 4:
+Predicted: No, Actual: Yes
+
+LOOCV Test Instance 5:
+Predicted: Yes, Actual: Yes
+
+LOOCV Test Instance 6:
+Predicted: Yes, Actual: No
+
+LOOCV Test Instance 7:
+Predicted: Yes, Actual: Yes
+
+LOOCV Test Instance 8:
+Predicted: Yes, Actual: No
+
+LOOCV Test Instance 9:
+Predicted: No, Actual: Yes
+
+LOOCV Test Instance 10:
+Predicted: Yes, Actual: Yes
+
+LOOCV Test Instance 11:
+Predicted: No, Actual: Yes
+
+LOOCV Test Instance 12:
+Predicted: Yes, Actual: Yes
+
+LOOCV Test Instance 13:
+Predicted: Yes, Actual: Yes
+
+LOOCV Test Instance 14:
+Predicted: No, Actual: No
